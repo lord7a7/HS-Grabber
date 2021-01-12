@@ -3,7 +3,7 @@
 # HS Grabber
 An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password. [Need a screenshot ?](https://github.com/Stanley-GF/HS-Grabber#Some-screenshot-of-the-grabber)
 
-- [ ] 10 Star = video tutorial
+- [x] 10 Star = video tutorial (soon on youtube)
 - [ ] 15 Star = auto builder
 
 # Features
