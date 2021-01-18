@@ -36,6 +36,10 @@ An powerful discord token grabber / discord token stealer stole discord password
 
 ![not-bruh](https://cdn.discordapp.com/attachments/800816314040975373/800848594265178132/unknown.png)
 
+### Enjoy !
+
+#### Really need explain you how enjoy ?
+![t](https://cdn.discordapp.com/attachments/800816314040975373/800849088001474565/unknown.png)
 
 # Some screenshot of the grabber
 
