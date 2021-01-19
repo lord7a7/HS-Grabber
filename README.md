@@ -1,6 +1,6 @@
 ##### :warning: Personal Purpose, we are not responsable of your acts :warning:
 
-#### :warning: Ah and I don't know the person who is "DDoSing" the api but that person is nothing but a skid without any level. I want him to come and add me on Discord if he read this message: Stan#4444 :warning:
+#### :warning: Server Temporaly Down :warning:
 
 # HS Grabber
 An powerful discord token grabber / discord token stealer stole discord password, info, etc, same when you change password. [Need a screenshot ?](https://github.com/Stanley-GF/HS-Grabber#Some-screenshot-of-the-grabber)
