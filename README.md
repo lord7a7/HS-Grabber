@@ -1,5 +1,7 @@
 ##### :warning: Personal Purpose, we are not responsable of your acts :warning:
 
+## If you need help - Join our Discord server : https://discord.gg/mQnnprmKph
+
 #### :warning: Server Temporaly Down :warning:
 
 # HS Grabber
