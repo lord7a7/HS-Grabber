@@ -1,4 +1,4 @@
-##### :warning: Personal Purpose, we are not responsable of your acts :warning:
+##### :warning: Personal Purpose, we are not responsable of your acts :warning: - shalby la baldringue
 
 ## If you need help - Join our Discord server : https://discord.gg/mQnnprmKph
 
